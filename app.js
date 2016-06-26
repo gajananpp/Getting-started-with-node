@@ -6,4 +6,4 @@ http.createServer(function(request,response) {
   response.end();
 }).listen(80,"127.0.0.1");
 
-console.log("Server is listening to http://127.0.0.1:80/",http);
+console.log("Server is listening to http://127.0.0.1:80/");
